@@ -15,3 +15,6 @@ https://www.kaggle.com/ksuchris2000/oklahoma-earthquakes-and-saltwater-injection
 - Do the total BBLs injected have more earthquakes around them?
 - Create a map of where the earthquakes are and where the wells are located
 - Plot of number of wells drilled over the years of given dataset compared to the number of earthquakes that happened over the timeframe
+- create map with markers of quakes and wells?
+
+
