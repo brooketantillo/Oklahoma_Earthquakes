@@ -1,5 +1,5 @@
 
-#Team: 
+**Team:** 
 The Lazer Pandas (Joseph, Brian, Tyler, Brooke)
 
 **Dataset: Oklahoma Earthquakes and Saltwater Injection Wells**
