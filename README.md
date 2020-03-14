@@ -5,7 +5,7 @@ The Lazer Pandas (Joseph, Brian, Tyler, Brooke)
 **Dataset: Oklahoma Earthquakes and Saltwater Injection Wells**
 https://www.kaggle.com/ksuchris2000/oklahoma-earthquakes-and-saltwater-injection-wells#InjectionWells.csv
 
-**Major Questions: **
+**Major Questions:**
 - Do frequency of earthquakes increase with proximity to injection wells?
 - Can the data be used as a general predictor of proximity or timing of future earthquakes?
 
